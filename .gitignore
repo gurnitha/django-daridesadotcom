@@ -1,3 +1,10 @@
+# ING NEW
+docs
+_docs
+venv3841
+venv3832
+.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
