@@ -1,0 +1,6 @@
+1. Create django project
+(venv3841) λ django-admin startproject config .
+
+2. (venv3841) λ pip install mysqlclient
+
+
